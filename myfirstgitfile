@@ -1,2 +1,3 @@
 # echo "my first file name"
-read my fisrt file name
+read $my fisrt file name
+echo $1
